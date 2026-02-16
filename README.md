@@ -2,7 +2,7 @@
 
 💻 Web Developer  
 🚀 Building real-world projects and SaaS products  
-🛠️ Focused on performance, clean UI, and SEO  
+🛠️ Focused on performance and clean UI
 🤝 Open to collaboration and freelance work  
 📫 Reach me: chakshuraheja8@gmail.com
 
